@@ -1,0 +1,44 @@
+{
+  "id": "1511193",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "767685",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "911013",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1089767",
+      "name": "三角",
+      "font_class": "sanjiao",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1586377",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "2815742",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

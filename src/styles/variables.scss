@@ -1,0 +1,12 @@
+// base color
+$mainColor:#D31618;
+$customerColor: #999;
+$sideBarWidth: 320px;
+$containerWidth: 1200px;
+// the :export directive is the magic sauce for webpack
+:export {
+    mainColor:$mainColor;
+    sideBarWidth: $sideBarWidth;
+    containerWidth: $containerWidth;
+    customerColor: $customerColor;
+}
